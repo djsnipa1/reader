@@ -1,3 +1,7 @@
+# I added these
+bin/
+share/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -99,3 +103,10 @@ ENV/
 
 # mypy
 .mypy_cache/
+bin/python
+bin/python3
+bin/python3.9
+lib64
+test.md
+
+pyvenv.cfg
